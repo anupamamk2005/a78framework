@@ -4,8 +4,8 @@
   <test thread-count="5" name="Test(failed)">
     <parameter name="ETO" value="7"/>
     <parameter name="ITO" value="9"/>
-    <parameter name="browser" value="firefox"/>
-    <parameter name="appURL" value="http://www.fb.com"/>
+    <parameter name="browser" value="chrome"/>
+    <parameter name="appURL" value="https://demo.actitime.com"/>
     <classes>
       <class name="script.Test1">
         <methods>
